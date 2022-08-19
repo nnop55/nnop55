@@ -2,6 +2,6 @@
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning FrontEnd Development
 
-- My skills
-- HTML & CSS
-- JAVASCRIPT
+- My skills:
+- HTML & CSS,
+- JAVASCRIPT.
