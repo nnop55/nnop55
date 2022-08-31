@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @nnop55
+- 👋 Hi, I’m @Tornike Melikishvili
 - 👀 I’m interested in Software Development
 - 🌱 I’m currently learning FrontEnd Development
 
