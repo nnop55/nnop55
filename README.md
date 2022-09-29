@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Tornike Melikishvili
-- 👀 I’m interested in Software Development
-- 🌱 I’m currently learning FrontEnd Development
+- 👀 I’m interested in FrontEnd Development
+- 🌱 I’m currently learning Angular
 
 - My skills:
 - HTML & CSS,
 - JAVASCRIPT.
+- TYPESCRIPT
