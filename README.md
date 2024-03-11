@@ -16,5 +16,13 @@
 - Payment integrations
 - Google Map integrations
 - Social Media Sign In-s
-
+- NodeJS
+- Rest API
+- MongoDB
+- PostgreSQL
+- MySQL
+- TypeORM
+- Data structures
+- Algorithms
+- System design
 
